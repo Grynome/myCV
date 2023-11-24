@@ -1,6 +1,5 @@
 <svg id="name-about" xmlns="http://www.w3.org/2000/svg" width="130px" height="130px" viewBox="0 0 130 130">
 
-	<defs>
 	<style type="text/css">
 		@font-face {
 				font-family: 'manropemedium';
@@ -16,7 +15,7 @@
 			text-transform: uppercase;
 			font-size: 18.3px;
 			font-weight: 500;
-			letter-spacing: normal;
+			letter-spacing: -0.4px;
 		}
 
 		#rotation-group {
@@ -31,7 +30,6 @@
 				}
 		}
 	</style>
-	</defs>
 
 	<g id="rotation-group" transform="translate(65,65) rotate(360)">
 
@@ -42,7 +40,7 @@
 			d="M115,65c0,27.6-22.4,50-50,50S15,92.6,15,65s22.4-50,50-50S115,37.4,115,65z"/>
 
 		<text class="text">
-			<textPath class="text" href="#myPath">About * About * About * </textPath>
+			<textPath class="text" href="#myPath"> * Beautylosophy Mahandaru Indonesia * </textPath>
 		</text>
 
 	</g>

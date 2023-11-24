@@ -93,6 +93,12 @@
                                 <ul class="socials d-flex align-items-start">
                                     <li>
                                         <a class="btn btn-s-text" href="https://www.instagram.com" target="_blank">
+                                            <span class="btn-title">LinkedIn</span>
+                                            <span class="btn-hover">LinkedIn</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-s-text" href="https://www.instagram.com" target="_blank">
                                             <span class="btn-title">Instagram</span>
                                             <span class="btn-hover">Instagram</span>
                                         </a>
